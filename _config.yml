@@ -14,7 +14,7 @@ featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 # Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
+sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/image-20230922144349214.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
